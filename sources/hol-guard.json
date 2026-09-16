@@ -1,0 +1,27 @@
+{
+  "id": "hol-guard",
+  "adapter": "skillmd",
+  "repo": "hashgraph-online/hol-guard-plugin",
+  "ref": "main",
+  "type": "skill",
+  "paths": [
+    "skills"
+  ],
+  "clis": [
+    "claude",
+    "codex",
+    "gemini"
+  ],
+  "license": {
+    "expected": "Apache-2.0",
+    "mode": "repo"
+  },
+  "mixedLicense": false,
+  "materialize": true,
+  "limit": 1,
+  "tags": [
+    "security",
+    "runtime-security",
+    "ai-security"
+  ]
+}
