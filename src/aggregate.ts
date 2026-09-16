@@ -37,6 +37,7 @@ const SOURCE_ORDER = [
   'karanb192-hooks',
   'dwarvesf-guardrails',
   'mcp-registry',
+  'hol-guard',
 ]
 
 interface NeedsReviewEntry { source: string; name: string; reason: string }
